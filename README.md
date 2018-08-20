@@ -1,4 +1,4 @@
-
+it 
 # Square Array
 
 ## Objectives
